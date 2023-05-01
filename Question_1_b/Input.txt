@@ -1,0 +1,13 @@
+// Computational domain from X_l to X_u is 
+// X_l
+0
+// X_u
+1.0
+// Alpha:
+0.001
+// Delta t (dt):
+0.0004
+// End Time (T_end): 
+0.075
+// Tolerance
+1.0e-4

@@ -1,0 +1,17 @@
+// Computational domain from 0 to L is 
+// Cross-sectional area, Ac 
+// Ac (in m^2)
+0.1 
+// Young’s modulus, E
+// E (in N/m^2)
+2.0e11
+// Bar's length, L 
+// L (in m)
+10
+// P(x) (in N/m)
+100
+// Delta x (dx)
+// dx (in m) 
+0.5
+// Tolerance
+1e-20
